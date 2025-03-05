@@ -2,11 +2,11 @@
 
 ## Übersicht der besten SSDs für Gaming 2025
 
-- **WD Black SN850X** – Beste Gaming-SSD insgesamt (PCIe 4.0 NVMe)
-- **Samsung 990 Pro** – Schnellste NVMe-SSD der PCIe-4.0-Generation
-- **Crucial T700** – Beste PCIe-5.0-SSD für Enthusiasten
-- **Samsung 870 EVO** – Beste SATA-SSD für Gaming
-- **Samsung 980 PRO** – Preis-Leistungs-Tipp unter den High-End-SSDs
+- [**WD Black SN850X**](https://amzn.to/3XvhA2t) – Beste Gaming-SSD insgesamt (PCIe 4.0 NVMe)
+- [**Samsung 990 Pro**](https://amzn.to/3QMLDyW) – Schnellste NVMe-SSD der PCIe-4.0-Generation
+- [**Crucial T700**](https://amzn.to/41L1CnC) – Beste PCIe-5.0-SSD für Enthusiasten
+- [**Samsung 870 EVO**](https://amzn.to/3Xrjjpz) – Beste SATA-SSD für Gaming
+- [**Samsung 980 PRO**](https://amzn.to/3F5tzxj) – Preis-Leistungs-Tipp unter den High-End-SSDs
 
 ## Einleitung – Warum eine schnelle SSD für Gaming wichtig ist
 
