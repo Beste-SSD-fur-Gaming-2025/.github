@@ -90,7 +90,7 @@ Eine schnelle SSD gehört 2025 zur Grundausstattung eines jeden Gaming-Systems. 
 
 In unserem **SSD-Test & Vergleich** haben wir fünf der **besten SSDs für Gaming 2025** vorgestellt, die jeweils in ihrer Kategorie herausragen. 
 
-Abschließend lässt sich sagen: Die [**WD Black SN850X**](https://amzn.to/3XvhA2t) bietet das beste Gesamtpaket für die meisten Gamer. Die **Samsung 990 Pro** richtet sich an Enthusiasten, die das Maximum wollen. Für Preisbewusste ist die **Samsung 980 Pro** eine hervorragende Wahl.
+Abschließend lässt sich sagen: Die [**WD Black SN850X**](https://amzn.to/3XvhA2t) bietet das beste Gesamtpaket für die meisten Gamer. Die [**Samsung 990 Pro**](https://amzn.to/3QMLDyW) richtet sich an Enthusiasten, die das Maximum wollen. Für Preisbewusste ist die [**Samsung 980 Pro**](https://amzn.to/3F5tzxj) eine hervorragende Wahl.
 
 Die Investition in eine gute SSD macht sich in jedem Spielstart und jedem Systemboot bemerkbar. Egal ob Casual-Gamer oder Enthusiast – eine der hier vorgestellten **Gaming-SSDs 2025** wird dein Spielerlebnis garantiert verbessern!
 
