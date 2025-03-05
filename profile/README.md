@@ -34,7 +34,7 @@ Für Gaming sind sie **(noch) kein Muss**, aber für Technik-Enthusiasten und al
 
 ## Top 5 SSDs für Gaming 2025 mit Vor- & Nachteilen
 
-### 1. [WD Black SN850X – Beste Gaming-SSD insgesamt (PCIe 4.0 NVMe)](https://www.amazon.de/dp/B0B7CKVCCV)
+### 1. [WD Black SN850X – Beste Gaming-SSD insgesamt (PCIe 4.0 NVMe)](https://amzn.to/3XvhA2t)
 
 **Kapazitäten:** 1 TB, 2 TB, 4 TB 
 
@@ -44,7 +44,7 @@ Für Gaming sind sie **(noch) kein Muss**, aber für Technik-Enthusiasten und al
 
 Die **WD Black SN850X** hat sich 2025 als **eine der schnellsten PCIe-4.0-SSDs** etabliert und bietet ein herausragendes Gesamtpaket für Gamer.
 
-### 2. [Samsung 990 Pro – Schnellste NVMe-SSD der PCIe-4.0-Generation](https://www.amazon.de/dp/B0B9C3ZVHR)
+### 2. [Samsung 990 Pro – Schnellste NVMe-SSD der PCIe-4.0-Generation](https://amzn.to/3QMLDyW)
 
 **Kapazitäten:** 1 TB, 2 TB, 4 TB  
 
